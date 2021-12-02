@@ -19,7 +19,7 @@ def main():
 			lastThreeDay = threeDay
 			
 	# print the final answer (without the first measurement)
-	print("increased: {}".format(answer - 1))
+	print("answer: {}".format(answer - 1))
 	
 if __name__ == "__main__":
 	main()
